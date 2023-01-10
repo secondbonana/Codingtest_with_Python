@@ -3,7 +3,7 @@
 이것이 취업을 위한 코딩 테스트다(책), 프로그래머스, 백준 등등
 
 
-git 으로 파일 올리는 법
+# git 으로 파일 올리는 법
 1. git bash 실행
 2. repository 폴더로 이동
 3. git remote add origin [깃허브주소]
